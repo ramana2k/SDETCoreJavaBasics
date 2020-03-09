@@ -1,4 +1,4 @@
-
+package examples;
 
 // Define a class and create its objects, define its attributes, constructors and member functions.
 
