@@ -2,6 +2,10 @@ package assignments1;
 
 import java.util.ArrayList;
 
+/* Write a program to sort the elements of an array in ascending order.
+4. Write a program to check current year is leap year or not. User will enter year value.
+5. Write a program to print first 10 prime numbers.
+*/
 //0,1,1,2,3,5,8,11....
 public class FibonacciSeries {
 
